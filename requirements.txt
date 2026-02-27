@@ -1,5 +1,6 @@
 pandas
 numpy
+joblib
 matplotlib
 scikit-learn
 xgboost
@@ -8,3 +9,4 @@ fastapi
 uvicorn
 jupyter
 ipykernel
+shap
